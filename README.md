@@ -70,16 +70,16 @@ The following features were identified as most important for predicting accident
 
 ## Visualizations
 ### 1. Severity Distribution
-![Severity Distribution](images/severity_distribution.png)
+![Severity Distribution](Visualizations/Severity_distribution.png)
 
 ### 2. Correlation Heatmap
-![Correlation Matrix](images/correlation_heatmap.png)
+![Correlation Matrix](Visualizations/cross_validation_scores.png)
 
 ### 3. Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Visualizations/top_15_features_importance.png)
 
 ### 4. Confusion Matrix (Ensemble Model)
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Visualizations/test_confusion_matrix.png)
 
 ---
 
